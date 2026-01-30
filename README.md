@@ -1,4 +1,4 @@
-# DRPI-DEIM
+# UHF-UOD
 # Description
 We propose an underwater object detection algorithm based on multi-scale feature fusion in spatial and frequency domains, using DEIM, specifically for autonomous underwater vehicles to detect marine debris.
 # **Experimental** **setup**
