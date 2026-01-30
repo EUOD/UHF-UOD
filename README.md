@@ -4,7 +4,7 @@ We propose an underwater object detection algorithm based on multi-scale feature
 # **Experimental** **setup**
 All experiments were conducted on a server running Ubuntu 22.04 operating system, equipped with an NVIDIA RTX 4090D GPU, 24GB memory and 60GB system memory. The experiments were implemented using Python 3.10 and based on the PyTorch 2.3.0 framework, with identical hyper-parameters for  training and validation. 
 # Download
-The dataset and models have been released. [Data&Model]([https://pan.baidu.com/s/1luMDDhD-ladaSzFQ1Jq0Ig?pwd=2u7f](https://pan.baidu.com/s/1aW7qdLPaMU-icypBh2Sr0w?pwd=pcg8))
+The dataset and models have been released. [Data&Model](https://pan.baidu.com/s/1aW7qdLPaMU-icypBh2Sr0w?pwd=pcg8)
 - These experiments utilized datasets including: UDD, UODD, DUO, RUOD.
 - This model includes the design of module in the backbone of the DEIM model, the design of the encoder structure, and the improvement of the feature extraction module, and proposes a Frequency-Spatial Transformer Block for solving image degradation problems. 
 
